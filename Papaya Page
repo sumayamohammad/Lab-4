@@ -2,14 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=\"device-width\", initial-scale=1.0">
     <title>Papaya</title>
 </head>
 <body>
-    <h1 align="center">Papaya</h1>
+    <h1 style="text-align: center;">Papaya</h1>
     <hr>
     <figure>
-        <img src="images2/papaya.jpg" alt="image of a papaya" width="300px" align="center">
+        <img src="https://github.com/sumayamohammad/Lab-4/blob/c8d935fc11e2957a931bd17bf8a7823f4a283cd8/Images/intro-1684865402.jpg" 
+             alt="image of a papaya" width="800px" height="500px" style="display: block; margin: 0 auto; border: 2px solid black;">
     </figure>
     <p>
         Papaya (<i>Carica papaya</i>) is a tropical fruit native to southern Mexico and Central America. 
@@ -19,7 +20,6 @@
         Learn more on <a href="https://en.wikipedia.org/wiki/Papaya" target="_blank">Wikipedia</a>.
     </p>
     <hr>
-    <a href="https://github.com/sumayamohammad/Lab-4/blob/37af2c4bd6a0665e2f097b8e7d527e2556f4dbb3/Main%20Page">Back to Main Page</a>
+    <a href="https://github.com/sumayamohammad/Lab-4/blob/0eda8985d8d076c0a35608e130073e71f7efa3f1/Main%20Page">Back to Main Page</a>
 </body>
 </html>
-
