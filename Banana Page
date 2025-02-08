@@ -9,7 +9,8 @@
     <h1 style="text-align: center;">Banana</h1>
     <hr>
     <figure>
-        <img src="images2/banana.jpg" alt="image of a banana" width="700px" usemap="#banana-map">
+        <img src="https://github.com/sumayamohammad/Lab-4/blob/0eda8985d8d076c0a35608e130073e71f7efa3f1/Images/How_To_Freeze_Bananas_001-1482f8d08158405a99557d29f3633567.jpg" 
+             alt="image of a banana" width="800px" height="500px" usemap="#banana-map" style="border: 2px solid black;">
     </figure>
 
     <map name="banana-map">
@@ -24,6 +25,6 @@
     </p>
 
     <hr>
-    <a href="https://github.com/sumayamohammad/Lab-4/blob/3761d7bed8d905eb2de728c4e9d22c2fa91c8ec6/Main%20Page">Back to Main Page</a>
+    <a href="https://github.com/sumayamohammad/Lab-4/blob/0eda8985d8d076c0a35608e130073e71f7efa3f1/Main%20Page">Back to Main Page</a>
 </body>
 </html>
