@@ -9,6 +9,20 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            height: 50vh;
+        }
+        .circular-frame {
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .circular-frame img {
+            width: 100%;
+            height: auto;
         }
         .fruit-links {
             display: flex;
@@ -23,20 +37,15 @@
     <h2 align="center">Sumaya Mohammad</h2>
 
     <div class="center">
-        <figure>
-            <img src="images2/fruits.jpg" alt="Fruit Basket Img" width="500px" usemap="#fruitmap">
-            <map name="fruitmap">
-                <!-- Rectangle Area for Apple -->
-                <area shape="rect" coords="5,5,220,180" href="https://nutritionsource.hsph.harvard.edu/food-features/apples/#:~:text=One%20serving%2C%20or%20one%20medium,)%2C%20and%203%20grams%20fiber." 
-                target="_blank" alt="Link to apple facts">
-            </map>
+        <figure class="circular-frame">
+            <img src="https://github.com/sumayamohammad/Lab-4/blob/5597fd6604e61823add8eb98df580c9e8d12720c/Images/pngkey.com-fruit-basket-png-5098574.png" alt="Fruit Basket Img">
         </figure>
     </div>
 
     <nav class="fruit-links">
-        <h3><a href="#" target="_blank">Papaya</a></h3>
-        <h3><a href="#" target="_blank">Pineapple</a></h3>
-        <h3><a href="#" target="_blank">Banana</a></h3>
+        <h3><a href="https://github.com/sumayamohammad/Lab-4/blob/5597fd6604e61823add8eb98df580c9e8d12720c/Papaya%20Page" target="_blank">Papaya</a></h3>
+        <h3><a href="https://github.com/sumayamohammad/Lab-4/blob/5597fd6604e61823add8eb98df580c9e8d12720c/Pineapple%20Page" target="_blank">Pineapple</a></h3>
+        <h3><a href="https://github.com/sumayamohammad/Lab-4/blob/5597fd6604e61823add8eb98df580c9e8d12720c/Banana%20Page" target="_blank">Banana</a></h3>
     </nav>
 </body>
 </html>
