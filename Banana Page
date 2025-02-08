@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banana</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Banana</h1>
+    <hr>
+    <figure>
+        <img src="images2/banana.jpg" alt="image of a banana" width="700px" usemap="#banana-map">
+    </figure>
+
+    <map name="banana-map">
+        <!-- Rectangle Area -->
+        <area shape="rect" coords="100,100,300,200" href="https://en.wikipedia.org/wiki/Banana" alt="Banana Info">
+        <!-- Circle Area -->
+        <area shape="circle" coords="400,150,50" href="https://en.wikipedia.org/wiki/Plantain" alt="Plantain Info">
+    </map>
+
+    <p>
+        A banana is an elongated, edible fruit, botanically a berry, produced by several kinds of large treelike herbaceous flowering plants in the genus Musa.
+        In some countries, cooking bananas are called plantains, distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, 
+        but is usually elongated and curved, with soft flesh rich in starch covered with a peel, which may have a variety of colors when ripe. 
+        It grows upward in clusters near the top of the plant. Almost all modern edible seedless (parthenocarp) cultivated bananas come from two wild species,
+        Musa acuminata and Musa balbisiana, or hybrids of them.
+    </p>
+
+    <hr>
+    <a href="lab4.html">Back to Lab 4</a>
+</body>
+</html>
 
